@@ -1,0 +1,132 @@
+[
+  {
+    "id_estado": 1,
+    "estado": "Amazonas",
+    "capital": "Puerto Ayacucho"
+  },
+  {
+    "id_estado": 2,
+    "estado": "Anzoátegui",
+    "capital": "Barcelona"
+  },
+  {
+    "id_estado": 3,
+    "estado": "Apure",
+    "capital": "San Fernando de Apure"
+  },
+  {
+    "id_estado": 4,
+    "estado": "Aragua",
+    "capital": "Maracay"
+  },
+  {
+    "id_estado": 5,
+    "estado": "Barinas",
+    "capital": "Barinas"
+  },
+  {
+    "id_estado": 6,
+    "estado": "Bolívar",
+    "capital": "Ciudad Bolívar"
+  },
+  {
+    "id_estado": 7,
+    "estado": "Carabobo",
+    "capital": "Valencia"
+  },
+  {
+    "id_estado": 8,
+    "estado": "Cojedes",
+    "capital": "San Carlos"
+  },
+  {
+    "id_estado": 9,
+    "estado": "Delta Amacuro",
+    "capital": "Tucupita"
+  },
+  {
+    "id_estado": 10,
+    "estado": "Falcón",
+    "capital": "Coro"
+  },
+  {
+    "id_estado": 11,
+    "estado": "Guárico",
+    "capital": "San Juan de Los Morros"
+  },
+  {
+    "id_estado": 12,
+    "estado": "Lara",
+    "capital": "Barquisimeto"
+  },
+  {
+    "id_estado": 13,
+    "estado": "Mérida",
+    "capital": "Mérida"
+  },
+  {
+    "id_estado": 14,
+    "estado": "Miranda",
+    "capital": "Los Teques"
+  },
+  {
+    "id_estado": 15,
+    "estado": "Monagas",
+    "capital": "Maturín"
+  },
+  {
+    "id_estado": 16,
+    "estado": "Nueva Esparta",
+    "capital": "La Asunción"
+  },
+  {
+    "id_estado": 17,
+    "estado": "Portuguesa",
+    "capital": "Guanare"
+  },
+  {
+    "id_estado": 18,
+    "estado": "Sucre",
+    "capital": "Cumaná"
+  },
+  {
+    "id_estado": 19,
+    "estado": "Táchira",
+    "capital": "San Cristóbal"
+  },
+  {
+    "id_estado": 20,
+    "estado": "Trujillo",
+    "capital": "Trujillo"
+  },
+  {
+    "id_estado": 21,
+    "estado": "La Guaira",
+    "capital": "La Guaira"
+  },
+  {
+    "id_estado": 22,
+    "estado": "Yaracuy",
+    "capital": "San Felipe"
+  },
+  {
+    "id_estado": 23,
+    "estado": "Zulia",
+    "capital": "Maracaibo"
+  },
+  {
+    "id_estado": 24,
+    "estado": "Distrito Capital",
+    "capital": "Caracas"
+  },
+  {
+    "id_estado": 25,
+    "estado": "Esequibo",
+    "capital": "Tumeremo"
+  },
+  {
+    "id_estado": 26,
+    "estado": "Dependencias Federales",
+    "capital": "Aun por definir"
+  }
+]
