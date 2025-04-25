@@ -2,121 +2,336 @@
   {
     "id_estado": 1,
     "estado": "Amazonas",
-    "capital": "Puerto Ayacucho"
+    "capital": "Puerto Ayacucho",
+    "extension": "177.617 km²",
+    "poblacion": "176.614 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-amazonas.png",
+    "escudo": "./assets/images/img-estados/shield-amazonas.png",
+    "mapa": "./assets/images/img-estados/map-amazonas.png",
+    "ubicacion_limites": "Se encuentra ubicado en el sur de Venezuela, limitando al norte con el estado Bolívar, al este y sur con Brasil y al oeste con Apure y la republica de Colombia.",
+    "toponimia": "Amazonas proviene del nombre de la selva amazónica, que se extiende por varios países de América del Sur, se le atribuyo este nombre ya que en esta zona había una leyenda de una tribu femenina que puso resistencia a los conquistadores, lo que hizo recordar a una leyenda de la mitología griega, donde las Amazonas eran un grupo de mujeres guerreras.",
+    "actividad_economica": "Agricultura, ganadería, minería, turismo",
+    "parques": "Parque Nacional Canaima, Parque Nacional Serranía de la Neblina."
   },
   {
     "id_estado": 2,
     "estado": "Anzoátegui",
-    "capital": "Barcelona"
+    "capital": "Barcelona",
+    "extension": "43.300 km²",
+    "poblacion": "1.890.847 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-anzoategui.png",
+    "escudo": "./assets/images/img-estados/shield-anzoategui.png",
+    "mapa": "./assets/images/img-estados/map-anzoategui.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región oriental de Venezuela, limitando al norte con el mar Caribe, al este con Sucre y Monagas, al sur con Bolívar y al oeste con Guárico.",
+    "toponimia": "Su nombre es en honor al prócer de la independencia, José Antonio Anzoátegui (el cual nació en Barcelona), este estado fue llamado originalmente Provincia de Barcelona.",
+    "actividad_economica": "Petróleo, agricultura, ganadería, turismo",
+    "parques": "Parque Nacional Mochima, Parque Nacional Cerro El Copey"
   },
   {
     "id_estado": 3,
     "estado": "Apure",
-    "capital": "San Fernando de Apure"
+    "capital": "San Fernando de Apure",
+    "extension": "76.500 km²",
+    "poblacion": "679.169 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-apure.png",
+    "escudo": "./assets/images/img-estados/shield-apure.png",
+    "mapa": "./assets/images/img-estados/map-apure.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región de los Llanos de Venezuela, limitando al norte con los estados Táchira, Barinas y Guárico, al este con Bolívar y al sur con Amazonas y la República de Colombia.",
+    "toponimia": "Ciertas fuentes señalan como inspiración a un arbusto llamado apure, otras, a un antiguo cacique aborigen denominado Apur. Cabe destacar que el nombre del Estado Apure procede del nombre del río Apure.",
+    "actividad_economica": "Ganadería, agricultura, comercio",
+    "parques": "Parque Nacional Santos Luzardo, Parque Nacional Cinaruco-Capanaparo"
   },
   {
     "id_estado": 4,
     "estado": "Aragua",
-    "capital": "Maracay"
+    "capital": "Maracay",
+    "extension": "7.014 km²",
+    "poblacion": "2.068.820 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-aragua.png",
+    "escudo": "./assets/images/img-estados/shield-aragua.png",
+    "mapa": "./assets/images/img-estados/map-aragua.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región central de Venezuela, limitando al norte con el mar Caribe, al este con La Guaira y Miranda, al sur con Guarico y al oeste con Carabobo.",
+    "toponimia": "Su nombre del proviene de un vocablo indígena de origen cumanagoto con que se denomina al chaguaramo, un tipo de palma de la región. Sin embargo, de acuerdo con el cronista Carlos Blanco Galeno, deriva del Caribe aregua, y este de are ('sitio') y de gua que a su vez deriva de ogun ('lo mío'), por lo que significaría 'mi sitio, mi país.",
+    "actividad_economica": "Industria, comercio, agricultura, turismo.",
+    "parques": "Parque Nacional Henri Pittier, Parque Nacional San Esteban."
   },
   {
     "id_estado": 5,
     "estado": "Barinas",
-    "capital": "Barinas"
+    "capital": "Barinas",
+    "extension": "35.200 km²",
+    "poblacion": "916.125 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-barinas.png",
+    "escudo": "./assets/images/img-estados/shield-barinas.png",
+    "mapa": "./assets/images/img-estados/map-barinas.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región de los Llanos de Venezuela, limitando al norte con los estados Cogedes, Portuguesa y Trujillo, al este con Guárico, al sur con Apure y al oeste con Mérida y Táchira.",
+    "toponimia": "Barinas es una palabra achagua o chibcha que significa «viento barinés» (viento recio que proviene de los valles del río Santo Domingo) y también está relacionada con «gran cantidad de agua».",
+    "actividad_economica": "Ganadería, agricultura, comercio.",
+    "parques": "Parque Nacional Sierra Nevada, Parque Nacional Morrocoy."
   },
   {
     "id_estado": 6,
     "estado": "Bolívar",
-    "capital": "Ciudad Bolívar"
+    "capital": "Ciudad Bolívar",
+    "extension": "240.528 km²",
+    "poblacion": "1.795.353 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-bolivar.png",
+    "escudo": "./assets/images/img-estados/shield-bolivar.png",
+    "mapa": "./assets/images/img-estados/map-bolivar.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región sur de Venezuela, limitando al norte con los estados Guárico, Anzoátegui, Monagas y Delta Amacuro, al este con la Guayana Esequiba, al sur con Amazonas y Bolívar y al oeste con Apure.",
+    "toponimia": "Su nombre es en homenaje al Libertador Simón Bolívar, quien estableció en la ciudad de Angostura, las bases de la acción que permitió la independencia.",
+    "actividad_economica": "Minería, agricultura, ganadería, turismo.",
+    "parques": "Parque Nacional Canaima, Parque Nacional Serranía de la Neblina."
   },
   {
     "id_estado": 7,
     "estado": "Carabobo",
-    "capital": "Valencia"
+    "capital": "Valencia",
+    "extension": "4.650 km²",
+    "poblacion": "2.813.161 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-carabobo.png",
+    "escudo": "./assets/images/img-estados/shield-carabobo.png",
+    "mapa": "./assets/images/img-estados/map-carabobo.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región central de Venezuela, limitando al norte con el mar Caribe, al este con el estado Aragua, al sur con Guárico y Cojedes y al oeste con Yaracuy.",
+    "toponimia": "Existen varias versiones sobre el nombre. Una de ella se refiere a una voz proveniente de un idioma arawaco: karau significa ‘sabana’, y bo quiere decir ‘agua’. El bo repetido actúa como superlativo, es decir, mucha agua o quebradas. Así, Carabobo, significaría ‘sabana de aguas’ o ‘sabana de quebradas.",
+    "actividad_economica": "Industria, comercio, agricultura, turismo.",
+    "parques": "Parque Nacional San Esteban, Parque Nacional Henri Pittier."
   },
   {
     "id_estado": 8,
     "estado": "Cojedes",
-    "capital": "San Carlos"
+    "capital": "San Carlos",
+    "extension": "14.800 km²",
+    "poblacion": "401.530 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-cojedes.png",
+    "escudo": "./assets/images/img-estados/shield-cojedes.png",
+    "mapa": "./assets/images/img-estados/map-cojedes.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región central de Venezuela, limitando al norte con los estados Yaracuy y Carabobo , al este con Guarico, al sur con Barinas y al oeste con el estado Portuguesa.",
+    "toponimia": "El nombre Cojedes, tiene su origen de la lengua Caribe, que significa: pueblo de cerámica o pueblo de ceramistas.",
+    "actividad_economica": "Agricultura, ganadería, comercio.",
+    "parques": "Parque Nacional San Esteban, Parque Nacional Henri Pittier."
   },
   {
     "id_estado": 9,
     "estado": "Delta Amacuro",
-    "capital": "Tucupita"
+    "capital": "Tucupita",
+    "extension": "40.200 km²",
+    "poblacion": "196.960 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-delta.png",
+    "escudo": "./assets/images/img-estados/shield-delta.png",
+    "mapa": "./assets/images/img-estados/map-delta.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región oriental de Venezuela, limitando al norte y este con el Océano Atlántico, al oeste con Monagas, al sur con Bolívar.",
+    "toponimia": "El nombre Amacuro proviene del río Amacuro, de corto curso, el cual afluye por el sur a la Boca Grande, del río Orinoco, en su desembocadura en el océano Atlántico, y se deriva de una voz indígena warao que proviene del vocabloamacoro, que significa «la presencia de la cotorra», aunque algunos especialistas la reconocen como «tejido de agua»",
+    "actividad_economica": "Pesca, agricultura, comercio.",
+    "parques": "Parque Nacional Mariusa, Parque Nacional Delta del Orinoco."
   },
   {
     "id_estado": 10,
     "estado": "Falcón",
-    "capital": "Coro"
+    "capital": "Coro",
+    "extension": "24.800 km²",
+    "poblacion": "1.143.991 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-falcon.png",
+    "escudo": "./assets/images/img-estados/shield-falcon.png",
+    "mapa": "./assets/images/img-estados/map-falcon.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región noroccidental de Venezuela, limitando al norte con el mar Caribe y las Antillas Neerlandesas, al este con el golfo Triste, al sur con Yaracuy y Lara y al oeste con el estado Zulia.",
+    "toponimia": "Se bautizó con ese nombre en honor a Juan Crisóstomo Falcón, quien fue líder de la Guerra Federal",
+    "actividad_economica": "Turismo, agricultura, comercio.",
+    "parques": "Parque Nacional Morrocoy, Parque Nacional Sierra de San Luis."
   },
   {
     "id_estado": 11,
     "estado": "Guárico",
-    "capital": "San Juan de Los Morros"
+    "capital": "San Juan de Los Morros",
+    "extension": "65.000 km²",
+    "poblacion": "855.381 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-guarico.png",
+    "escudo": "./assets/images/img-estados/shield-guarico.png",
+    "mapa": "./assets/images/img-estados/map-guarico.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región central de Venezuela, limitando al norte con los estados Carabobo, Aragua y Miranda, al este con Anzoátegui, al sur con Bolívar y Apure y al oeste con Barinas y Cojedes.",
+    "toponimia": "El nombre proviene del río Guárico, que en el dialecto Caribe significa cacique.",
+    "actividad_economica": "Agricultura, ganadería, comercio.",
+    "parques": "Parque Nacional Aguaro-Guariquito, Parque Nacional San Esteban."
   },
   {
     "id_estado": 12,
     "estado": "Lara",
-    "capital": "Barquisimeto"
+    "capital": "Barquisimeto",
+    "extension": "19.800 km²",
+    "poblacion": "2.142.583 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-lara.png",
+    "escudo": "./assets/images/img-estados/shield-lara.png",
+    "mapa": "./assets/images/img-estados/map-lara.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región centro-occidental de Venezuela, limitando al norte con el estado Falcón, al este con Yaracuy, al sur con Portuguesa y al oeste con Zulia.",
+    "actividad_economica": "Industria, comercio, agricultura, turismo.",
+    "parques": "Parque Nacional Yacambú, Parque Nacional Dinira."
   },
   {
     "id_estado": 13,
     "estado": "Mérida",
-    "capital": "Mérida"
+    "capital": "Mérida",
+    "extension": "11.300 km²",
+    "poblacion": "1.031.017 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-merida.png",
+    "escudo": "./assets/images/img-estados/shield-merida.png",
+    "mapa": "./assets/images/img-estados/map-merida.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región andina de Venezuela, limitando al norte con los estados Zulia y Trujillo, al este con Barinas, al sur y oeste con el estado Táchira.",
+    "toponimia": "La palabra Mérida proviene del término «emérita», voz latina cuyo significado es «de quien tiene mérito» y también «emérito», que es el verdadero origen etimológico del nombre,",
+    "actividad_economica": "Turismo, agricultura, comercio.",
+    "parques": "Parque Nacional Sierra Nevada, Parque Nacional La Culata."
   },
   {
     "id_estado": 14,
     "estado": "Miranda",
-    "capital": "Los Teques"
+    "capital": "Los Teques",
+    "extension": "7.950 km²",
+    "poblacion": "4.088.343 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-miranda.png",
+    "escudo": "./assets/images/img-estados/shield-miranda.png",
+    "mapa": "./assets/images/img-estados/map-miranda.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región central de Venezuela, limitando al norte con el estado La Guaira, el Distrito Capital y mar Caribe, al este con el mar Caribe, al sur con Guarico y al oeste con Aragua.",
+    "toponimia": "Debe su nombre a uno de los próceres de la independencia del país, Francisco de Miranda.",
+    "actividad_economica": "Industria, comercio, agricultura, turismo.",
+    "parques": "Parque Nacional El Ávila, Parque Nacional Macarao."
   },
   {
     "id_estado": 15,
     "estado": "Monagas",
-    "capital": "Maturín"
+    "capital": "Maturín",
+    "extension": "28.900 km²",
+    "poblacion": "1.090.159 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-monagas.png",
+    "escudo": "./assets/images/img-estados/shield-monagas.png",
+    "mapa": "./assets/images/img-estados/map-monagas.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región oriental de Venezuela, limitando al norte con el estado Sucre, al este con Delta Amacuro, al sur con Bolívar y al oeste con Anzoátegui.",
+    "toponimia": "El nombre se designo en honor al general José Tadeo Monagas",
+    "actividad_economica": "Petróleo, agricultura, comercio.",
+    "parques": "Parque Nacional Mochima, Parque Nacional Sierra de San Luis."
   },
   {
     "id_estado": 16,
     "estado": "Nueva Esparta",
-    "capital": "La Asunción"
+    "capital": "La Asunción",
+    "extension": "1.150 km²",
+    "poblacion": "596.842 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-nueva-esparta.png",
+    "escudo": "./assets/images/img-estados/shield-nueva-esparta.png",
+    "mapa": "./assets/images/img-estados/map-nueva-esparta.png",
+    "ubicacion_limites": "Se encuentra ubicado en el mar Caribe, limita con el mar Caribe y al sur con Sucre.",
+    "toponimia": "El estado fue designado con el nombre de Nueva Esparta a partir del 12 de mayo de 1817, con el propósito de hacer un homenaje al heroísmo de los habitantes de la isla de Margarita durante la guerra de Independencia de Venezuela, calificado como heroísmo espartano, en alusión a la valentía de los ciudadanos de la capital de la porción de Laconia (Esparta), en la península del Peloponeso, en la antigua Grecia.",
+    "actividad_economica": "Turismo, comercio, pesca.",
+    "parques": "Parque Nacional La Restinga, Parque Nacional Cerro El Copey."
   },
   {
     "id_estado": 17,
     "estado": "Portuguesa",
-    "capital": "Guanare"
+    "capital": "Guanare",
+    "extension": "15.200 km²",
+    "poblacion": "1.003.425 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-portuguesa.png",
+    "escudo": "./assets/images/img-estados/shield-portuguesa.png",
+    "mapa": "./assets/images/img-estados/map-portuguesa.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región central de Venezuela, limitando al norte con el estado Lara, al este con Cojedes, al sur con Barinas y al oeste con Trujillo.",
+    "toponimia": "El estado fue designado con ese nombre a partir del 4 de agosto de 1909. Según relata el apólogo, se debe al trágico desenlace de una joven de origen portugués que pereció ahogada en las aguas del antiguo y caudaloso río Temerí; ella acompañaba posiblemente a los conquistadores que fundaron a Guanare, capital del Estado. A raíz de este acontecimiento se desprende el gentilicio que identifica al río y al Estado.",
+    "actividad_economica": "Agricultura, ganadería, comercio.",
+    "parques": "Parque Nacional Terepaima, Parque Nacional Sierra de San Luis."
   },
   {
     "id_estado": 18,
     "estado": "Sucre",
-    "capital": "Cumaná"
+    "capital": "Cumaná",
+    "extension": "11.800 km²",
+    "poblacion": "1.087.779 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-sucre.png",
+    "escudo": "./assets/images/img-estados/shield-sucre.png",
+    "mapa": "./assets/images/img-estados/map-sucre.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región oriental de Venezuela, limitando al norte con el mar Caribe, al este con el golfo de Paria, al sur con Monagas y al oeste con el Golfo de Cariaco.",
+    "toponimia": "Debe su nombre al Gran Mariscal de Ayacucho Antonio José de Sucre, quien nació en Cumaná el 3 de febrero de 1795.",
+    "actividad_economica": "Agricultura, pesca, comercio.",
+    "parques": "Parque Nacional Mochima, Parque Nacional Sierra de San Luis."
   },
   {
     "id_estado": 19,
     "estado": "Táchira",
-    "capital": "San Cristóbal"
+    "capital": "San Cristóbal",
+    "extension": "11.100 km²",
+    "poblacion": "1.416.625 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-tachira.png",
+    "escudo": "./assets/images/img-estados/shield-tachira.png",
+    "mapa": "./assets/images/img-estados/map-tachira.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región andina de Venezuela, limitando al norte con el estado Zulia, al este con Mérida, al sur con Barinas y Apure y al oeste con la República de Colombia.",
+    "toponimia": "Una hipótesis afirma que la palabra Táchira es un vocablo indígena —con base en dialectos chibchas— compuesto por tres partículas: ta, «labranza» (como raíz), chi, «nuestro, que nos pertenece» y el sufijo rá, «elemento que expresa lugar, momento o posición» con respecto al futuro. De esa manera, significaría aproximadamente un término como: «La tierra que será nuestra heredad» o «La tierra de nuestra heredad».",
+    "actividad_ecomomica": "Agricultura, comercio, turismo.",
+    "parques": "Parque Nacional Chorro El Indio, Parque Nacional Sierra de La Culata."
   },
   {
     "id_estado": 20,
     "estado": "Trujillo",
-    "capital": "Trujillo"
+    "capital": "Trujillo",
+    "extension": "7.400 km²",
+    "poblacion": "887.064 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-trujillo.png",
+    "escudo": "./assets/images/img-estados/shield-trujillo.png",
+    "mapa": "./assets/images/img-estados/map-trujillo.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región andina de Venezuela, limitando al norte con los estados Zulia y Lara, al este con Portuguesa, al sur con Barinas y al oeste con el lago de Maracaibo.",
+    "toponimia": "Su nombre viene por el español Diego García de Paredes quien fundó Nueva Trujillo en honor a su pueblo natal Trujillo en España, más tarde el estado pasaria a llamarse Trujillo",
+    "actividad_economica": "Agricultura, comercio, turismo.",
+    "parques": "Parque Nacional Sierra de La Culata, Parque Nacional Dinira."
   },
   {
     "id_estado": 21,
     "estado": "La Guaira",
-    "capital": "La Guaira"
+    "capital": "La Guaira",
+    "extension": "1.497 km²",
+    "poblacion": "486.824 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-guaira.png",
+    "escudo": "./assets/images/img-estados/shield-guaira.png",
+    "mapa": "./assets/images/img-estados/map-guaira.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región central de Venezuela, limitando al norte con el mar Caribe, al sur y oeste con Distrito Capital y Miranda.",
+    "toponimia": "Su nombre proviene del quechua 'viento'.",
+    "actividad_economica": "Turismo, comercio, pesca.",
+    "parques": "Parque Nacional El Ávila, Parque Nacional Macarao."
   },
   {
     "id_estado": 22,
     "estado": "Yaracuy",
-    "capital": "San Felipe"
+    "capital": "San Felipe",
+    "extension": "7.100 km²",
+    "poblacion": "859.474 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-yaracuy.png",
+    "escudo": "./assets/images/img-estados/shield-yaracuy.png",
+    "mapa": "./assets/images/img-estados/map-yaracuy.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región centro-occidental de Venezuela, limitando al norte con el estado Falcón, al este con Carabobo, al sur con Cojedes y al oeste con Lara.",
+    "toponimia": "Yaracuy deriva su nombre de las voces jirajaras Yara - Yaraí, que quiere decir «coger agua» y Cuí- Cu-í, «allá lejos», por lo que Yaracuy, significa «Coger agua de lejos» o «Coger agua de allá lejos».",
+    "actividad_economica": "Agricultura, comercio, turismo.",
+    "parques": "Parque Nacional Yurubí, Parque Nacional San Esteban."
   },
   {
     "id_estado": 23,
     "estado": "Zulia",
-    "capital": "Maracaibo"
+    "capital": "Maracaibo",
+    "extension": "63.100 km²",
+    "poblacion": "4.957.765 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-zulia.png",
+    "escudo": "./assets/images/img-estados/shield-zulia.png",
+    "mapa": "./assets/images/img-estados/map-zulia.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región noroccidental de Venezuela, limitando al norte con el mar Caribe, al este con Falcón, Lara y Trujillo, al sur con Táchira y al oeste con la República de Colombia.",
+    "toponimia": "Existen varias versiones especulativas sobre el origen de la palabra en idiomas nativos o inspirados en personajes locales. Algunos autores han sugerido que Zulia deriva de la palabra guaraní cur o çur, que significa crecer o salir del cauce, o que deriva de vocablos de origen chibcha que se refieren a una planta exótica conocida con el nombre de palomita (Lobelia erinus) que es cultivada en jardines tanto en Colombia como en el occidente de Venezuela, por sus bellas flores azules. Igualmente existe una fábula sobre la existencia de una Princesa Zulia, hija del cacique Cinera, que regía sobre una federación de tribus ubicadas en Norte de Santander, Colombia. Tras la muerte violenta de su padre, se casaría con Guaimaral, hijo del cacique Mara, pero ella también caería en un enfrentamiento con los conquistadores. Según este relato, «regresó Guaimaral a los dominios de su padre, bautizando ríos, pueblos y regiones con el nombre de su amada».",
+    "actividad_economica": "Petróleo, comercio, agricultura.",
+    "parques": "Parque Nacional Sierra de Perijá, Parque Nacional Ciénagas de Juan Manuel."
   },
   {
     "id_estado": 24,
     "estado": "Distrito Capital",
-    "capital": "Caracas"
+    "capital": "Caracas",
+    "extension": "433 km²",
+    "poblacion": "3.523.959 habitantes (aproximadamente)",
+    "bandera": "./assets/images/img-estados/flag-dc.png",
+    "escudo": "./assets/images/img-estados/shield-dc.png",
+    "mapa": "./assets/images/img-estados/map-dc.png",
+    "ubicacion_limites": "Se encuentra ubicado en la región central de Venezuela.",
+    "toponimia": "El término distrito capital es comúnmente utilizado para referirse a la zona alrededor de la capital del estado.",
+    "actividad_economica": "Comercio, servicios, turismo.",
+    "parques": "Parque Nacional El Ávila, Parque Nacional Macarao."
   }
 ]
