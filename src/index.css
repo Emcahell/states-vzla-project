@@ -29,6 +29,14 @@
 
 /* ANIMATION NAV */
 
+nav {
+  transition: 0.2s linear 0.2s;
+}
+
+.nav-off {
+  transform: translateY(-100px);
+}
+
   .link-section {
     width: 15%;
     position: relative;
