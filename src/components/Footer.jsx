@@ -5,7 +5,7 @@ import Iconig from "./icons/Iconig";
 
 const Footer = () => {
   return (
-    <footer className="absolute bottom-0 flex flex-col justify-center items-center w-full py-14 border-t-2 border-wine bg-wine-dark">
+    <footer className="flex flex-col justify-center items-center w-full py-14 border-t-2 border-wine bg-wine-dark">
 
       <section className="flex flex-col items-center justify-center tracking-wide text-center mb-5 text-white-smoke">
         <p className="text-sm">Desarrollado con ❤️ por <b>Emcahell</b></p>

@@ -118,15 +118,5 @@
     "id_estado": 24,
     "estado": "Distrito Capital",
     "capital": "Caracas"
-  },
-  {
-    "id_estado": 25,
-    "estado": "Esequibo",
-    "capital": "Tumeremo"
-  },
-  {
-    "id_estado": 26,
-    "estado": "Dependencias Federales",
-    "capital": "Aun por definir"
   }
 ]
