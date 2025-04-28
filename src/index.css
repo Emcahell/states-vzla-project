@@ -25,6 +25,13 @@
   font-family: 'Cathedral-Open';
 }
 
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+  background-size: 16px 16px;
+  color: transparent;
+}
+
 /* ***************************************************************** */
 
 /* ANIMATION NAV */
