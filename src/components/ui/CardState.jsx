@@ -9,7 +9,7 @@ const CardState = ({ bandera, estado, capital, extencion, poblacion }) => {
         />
       </div>
       <div className="mb-4">
-        <h1 className="text-xl tracking-wide font-bold text-wine mb-2">{estado}</h1>
+        <h1 className="text-xl tracking-wide font-bold text-wine capitalize mb-2">{estado}</h1>
           <div className="flex flex-col text-base text-[#523e43]">
             <span className="tracking-wide mb-1"><b>Capital:</b> {capital}</span>
             <span className="tracking-wide mb-1"><b>Extención:</b> {extencion}</span>

@@ -1,7 +1,7 @@
 [
   {
     "id_estado": 1,
-    "estado": "Amazonas",
+    "estado": "amazonas",
     "capital": "Puerto Ayacucho",
     "extension": "177.617 km²",
     "poblacion": "176.614 habitantes (aproximadamente)",
@@ -15,7 +15,7 @@
   },
   {
     "id_estado": 2,
-    "estado": "Anzoátegui",
+    "estado": "anzoategui",
     "capital": "Barcelona",
     "extension": "43.300 km²",
     "poblacion": "1.890.847 habitantes (aproximadamente)",
@@ -29,7 +29,7 @@
   },
   {
     "id_estado": 3,
-    "estado": "Apure",
+    "estado": "apure",
     "capital": "San Fernando de Apure",
     "extension": "76.500 km²",
     "poblacion": "679.169 habitantes (aproximadamente)",
@@ -43,7 +43,7 @@
   },
   {
     "id_estado": 4,
-    "estado": "Aragua",
+    "estado": "aragua",
     "capital": "Maracay",
     "extension": "7.014 km²",
     "poblacion": "2.068.820 habitantes (aproximadamente)",
@@ -57,7 +57,7 @@
   },
   {
     "id_estado": 5,
-    "estado": "Barinas",
+    "estado": "barinas",
     "capital": "Barinas",
     "extension": "35.200 km²",
     "poblacion": "916.125 habitantes (aproximadamente)",
@@ -71,7 +71,7 @@
   },
   {
     "id_estado": 6,
-    "estado": "Bolívar",
+    "estado": "bolivar",
     "capital": "Ciudad Bolívar",
     "extension": "240.528 km²",
     "poblacion": "1.795.353 habitantes (aproximadamente)",
@@ -85,7 +85,7 @@
   },
   {
     "id_estado": 7,
-    "estado": "Carabobo",
+    "estado": "carabobo",
     "capital": "Valencia",
     "extension": "4.650 km²",
     "poblacion": "2.813.161 habitantes (aproximadamente)",
@@ -99,7 +99,7 @@
   },
   {
     "id_estado": 8,
-    "estado": "Cojedes",
+    "estado": "cojedes",
     "capital": "San Carlos",
     "extension": "14.800 km²",
     "poblacion": "401.530 habitantes (aproximadamente)",
@@ -113,7 +113,7 @@
   },
   {
     "id_estado": 9,
-    "estado": "Delta Amacuro",
+    "estado": "delta amacuro",
     "capital": "Tucupita",
     "extension": "40.200 km²",
     "poblacion": "196.960 habitantes (aproximadamente)",
@@ -127,7 +127,7 @@
   },
   {
     "id_estado": 10,
-    "estado": "Falcón",
+    "estado": "falcon",
     "capital": "Coro",
     "extension": "24.800 km²",
     "poblacion": "1.143.991 habitantes (aproximadamente)",
@@ -141,7 +141,7 @@
   },
   {
     "id_estado": 11,
-    "estado": "Guárico",
+    "estado": "guarico",
     "capital": "San Juan de Los Morros",
     "extension": "65.000 km²",
     "poblacion": "855.381 habitantes (aproximadamente)",
@@ -155,7 +155,7 @@
   },
   {
     "id_estado": 12,
-    "estado": "Lara",
+    "estado": "lara",
     "capital": "Barquisimeto",
     "extension": "19.800 km²",
     "poblacion": "2.142.583 habitantes (aproximadamente)",
@@ -168,7 +168,7 @@
   },
   {
     "id_estado": 13,
-    "estado": "Mérida",
+    "estado": "merida",
     "capital": "Mérida",
     "extension": "11.300 km²",
     "poblacion": "1.031.017 habitantes (aproximadamente)",
@@ -182,7 +182,7 @@
   },
   {
     "id_estado": 14,
-    "estado": "Miranda",
+    "estado": "miranda",
     "capital": "Los Teques",
     "extension": "7.950 km²",
     "poblacion": "4.088.343 habitantes (aproximadamente)",
@@ -196,7 +196,7 @@
   },
   {
     "id_estado": 15,
-    "estado": "Monagas",
+    "estado": "monagas",
     "capital": "Maturín",
     "extension": "28.900 km²",
     "poblacion": "1.090.159 habitantes (aproximadamente)",
@@ -210,7 +210,7 @@
   },
   {
     "id_estado": 16,
-    "estado": "Nueva Esparta",
+    "estado": "nueva esparta",
     "capital": "La Asunción",
     "extension": "1.150 km²",
     "poblacion": "596.842 habitantes (aproximadamente)",
@@ -224,7 +224,7 @@
   },
   {
     "id_estado": 17,
-    "estado": "Portuguesa",
+    "estado": "portuguesa",
     "capital": "Guanare",
     "extension": "15.200 km²",
     "poblacion": "1.003.425 habitantes (aproximadamente)",
@@ -238,7 +238,7 @@
   },
   {
     "id_estado": 18,
-    "estado": "Sucre",
+    "estado": "sucre",
     "capital": "Cumaná",
     "extension": "11.800 km²",
     "poblacion": "1.087.779 habitantes (aproximadamente)",
@@ -252,7 +252,7 @@
   },
   {
     "id_estado": 19,
-    "estado": "Táchira",
+    "estado": "tachira",
     "capital": "San Cristóbal",
     "extension": "11.100 km²",
     "poblacion": "1.416.625 habitantes (aproximadamente)",
@@ -266,7 +266,7 @@
   },
   {
     "id_estado": 20,
-    "estado": "Trujillo",
+    "estado": "trujillo",
     "capital": "Trujillo",
     "extension": "7.400 km²",
     "poblacion": "887.064 habitantes (aproximadamente)",
@@ -280,7 +280,7 @@
   },
   {
     "id_estado": 21,
-    "estado": "La Guaira",
+    "estado": "la guaira",
     "capital": "La Guaira",
     "extension": "1.497 km²",
     "poblacion": "486.824 habitantes (aproximadamente)",
@@ -294,7 +294,7 @@
   },
   {
     "id_estado": 22,
-    "estado": "Yaracuy",
+    "estado": "yaracuy",
     "capital": "San Felipe",
     "extension": "7.100 km²",
     "poblacion": "859.474 habitantes (aproximadamente)",
@@ -308,7 +308,7 @@
   },
   {
     "id_estado": 23,
-    "estado": "Zulia",
+    "estado": "zulia",
     "capital": "Maracaibo",
     "extension": "63.100 km²",
     "poblacion": "4.957.765 habitantes (aproximadamente)",
@@ -322,7 +322,7 @@
   },
   {
     "id_estado": 24,
-    "estado": "Distrito Capital",
+    "estado": "distrito capital",
     "capital": "Caracas",
     "extension": "433 km²",
     "poblacion": "3.523.959 habitantes (aproximadamente)",

@@ -11,6 +11,9 @@ importers:
       '@tailwindcss/vite':
         specifier: ^4.1.4
         version: 4.1.4(vite@6.2.5(jiti@2.4.2)(lightningcss@1.29.2))
+      fuzzaldrin-plus:
+        specifier: ^0.6.0
+        version: 0.6.0
       react:
         specifier: ^19.0.0
         version: 19.1.0
@@ -24,6 +27,9 @@ importers:
       '@eslint/js':
         specifier: ^9.21.0
         version: 9.24.0
+      '@types/fuzzaldrin-plus':
+        specifier: ^0.6.5
+        version: 0.6.5
       '@types/react':
         specifier: ^19.0.10
         version: 19.1.0
@@ -531,6 +537,9 @@ packages:
   '@types/estree@1.0.7':
     resolution: {integrity: sha512-w28IoSUCJpidD/TGviZwwMJckNESJZXFu7NBZ5YJ4mEUnNraUn9Pm8HSZm/jDF1pDWYKspWE7oVphigUPRakIQ==}
 
+  '@types/fuzzaldrin-plus@0.6.5':
+    resolution: {integrity: sha512-fUFxKXq/Qu8WVgPtSkQMK7jF5odTnBaIthuhKQb6PivpTaTTUlOTMS3WsT+UpWVZcYQH5skjHuFRTNmrUGSDfg==}
+
   '@types/json-schema@7.0.15':
     resolution: {integrity: sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==}
 
@@ -708,6 +717,9 @@ packages:
     resolution: {integrity: sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==}
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
+
+  fuzzaldrin-plus@0.6.0:
+    resolution: {integrity: sha512-srIDThJHkdp3aPwJpR/HNzYZCRJwm07b/igxseoHSB7qR8e/gQp4F6lMGknE3TQI1Aq14TiFf/wzrHOp9LY/EA==}
 
   glob-parent@6.0.2:
     resolution: {integrity: sha512-XxwI8EOhVQgWp6iDL+3b0r86f4d6AX6zSU55HfB4ydCEuXLXc5FcYeOu+nnGftS4TEju/11rt4KJPTMgbfmv4A==}
@@ -1324,6 +1336,8 @@ snapshots:
 
   '@types/estree@1.0.7': {}
 
+  '@types/fuzzaldrin-plus@0.6.5': {}
+
   '@types/json-schema@7.0.15': {}
 
   '@types/react-dom@19.1.1(@types/react@19.1.0)':
@@ -1534,6 +1548,8 @@ snapshots:
 
   fsevents@2.3.3:
     optional: true
+
+  fuzzaldrin-plus@0.6.0: {}
 
   glob-parent@6.0.2:
     dependencies:
