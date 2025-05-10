@@ -45,35 +45,35 @@ const Modal = ({ data, onClose }) => {
         <div className="flex flex-col gap-5">
           <div>
             <b className="text-lg sm:text-xl">Capital</b>
-            <p className="tracking-wide">{data.capital}</p>
+            <p className="tracking-wide mx-2">{data.capital}</p>
           </div>
           <div>
             <b className="text-lg sm:text-xl">Extención</b>
-            <p className="tracking-wide">{data.extension} km²</p>
+            <p className="tracking-wide mx-2">{data.extension} km²</p>
           </div>
           <div>
             <b className="text-lg sm:text-xl">Población</b>
-            <p className="tracking-wide">{data.poblacion}</p>
+            <p className="tracking-wide mx-2">{data.poblacion}</p>
           </div>
           <div>
             <b className="text-lg sm:text-xl">Gentilicio</b>
-            <p className="tracking-wide">{data.gentilicio}</p>
+            <p className="tracking-wide mx-2">{data.gentilicio}</p>
           </div>
           <div>
             <b className="text-lg sm:text-xl">Toponimia</b>
-            <p className="tracking-wide">{data.toponimia}</p>
+            <p className="tracking-wide mx-2">{data.toponimia}</p>
           </div>
           <div>
             <b className="text-lg sm:text-xl">Ubicación</b>
-            <p className="tracking-wide">{data.ubicacion_limites}</p>
+            <p className="tracking-wide mx-2">{data.ubicacion_limites}</p>
           </div>
           <div>
             <b className="text-lg sm:text-xl">Actividad Económica</b>
-            <p className="tracking-wide">{data.actividad_economica}</p>
+            <p className="tracking-wide mx-2">{data.actividad_economica}</p>
           </div>
           <div>
             <b className="text-lg sm:text-xl">Parques Nacionales</b>
-            <p className="tracking-wide">{data.parques}</p>
+            <p className="tracking-wide mx-2">{data.parques}</p>
           </div>
         </div>
       </article>
