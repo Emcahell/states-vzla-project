@@ -1,6 +1,6 @@
 import IconFilter from '../icons/IconFilter';
 
-const InputSearch = ({ value, onChange }) => {
+const InputSearch = ({ value, onChange, setSortOption }) => {
   return (
     <div className='relative'>
       <input 
@@ -11,7 +11,7 @@ const InputSearch = ({ value, onChange }) => {
       value={value}
       onChange={onChange}
       />
-      <IconFilter />
+      <IconFilter setSortOption={setSortOption} />
     </div>
   )
 }
