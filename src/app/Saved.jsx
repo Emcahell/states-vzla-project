@@ -31,14 +31,6 @@ const Saved = () => {
           guardados.map((data, index) => (
             <CardState 
             key={index} {...data} onViewMore={() => handleViewMore(data)}
-            // key={item.estado}
-            // state={item}
-            // onViewMore={() => handleViewMore(item)}
-            // bandera={item.bandera}
-            // estado={item.estado}
-            // capital={item.capital}
-            // extension={item.extension}
-            // poblacion={item.poblacion}
             />
           ))
         ) : (
