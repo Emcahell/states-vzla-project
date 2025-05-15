@@ -1,8 +1,10 @@
+import image from "/src/assets/images/salto-angel-2.jpg"
+
 const ImgSaltoAngel1 = () => {
   return (
     <>
     <img 
-    src="./src/assets/images/salto-angel-2.jpg" 
+    src={image}
     alt="Salto Angel" 
     className=""
     />

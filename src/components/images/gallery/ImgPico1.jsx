@@ -1,8 +1,10 @@
+import image from "/src/assets/images/pico-bolivar-1.jpg"
+
 const ImgPico1 = () => {
   return (
     <>
     <img 
-    src="./src/assets/images/pico-bolivar-1.jpg" 
+    src={image}
     alt="Pico Bolivar" 
     // className="relative sm:bottom-20"
     />

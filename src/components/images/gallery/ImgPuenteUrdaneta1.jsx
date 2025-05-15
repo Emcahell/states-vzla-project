@@ -1,8 +1,10 @@
+import image from "/src/assets/images/puente-rafael-urdaneta-1.jpg"
+
 const ImgPuenteUrdaneta1 = () => {
   return (
     <>
     <img 
-    src="./src/assets/images/puente-rafael-urdaneta-1.jpg" 
+    src={image}
     alt="Puente rafael urdaneta" 
     className="h-full sm:h-auto"
     />

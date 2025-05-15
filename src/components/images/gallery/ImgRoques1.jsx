@@ -1,8 +1,10 @@
+import image from "/src/assets/images/los-roques-1.jpg"
+
 const ImgRoques1 = () => {
   return (
     <>
     <img 
-    src="./src/assets/images/los-roques-1.jpg" 
+    src={image}
     alt="Los Roques" 
     className=" w-full h-full sm:h-auto"
     />

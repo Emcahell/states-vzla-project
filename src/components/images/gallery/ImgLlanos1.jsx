@@ -1,8 +1,10 @@
+import image from "/src/assets/images/llanos-1.jpg"
+
 const ImgLlanos1 = () => {
   return (
     <>
     <img 
-    src="./src/assets/images/llanos-1.jpg" 
+    src={image}
     alt="llanos" 
     className="h-full"
     />
