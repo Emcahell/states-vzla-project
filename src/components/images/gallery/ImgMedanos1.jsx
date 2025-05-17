@@ -1,4 +1,4 @@
-import image from "/src/assets/images/medanos-de-coro-1.jpeg" 
+import image from "/src/assets/images/medanos-de-coro-1.jpeg";
 
 const ImgMedanos1 = () => {
   return (

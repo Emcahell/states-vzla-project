@@ -1,4 +1,4 @@
-import image from "/src/assets/images/salto-angel-2.jpg"
+import image from "/src/assets/images/salto-angel-2.jpg";
 
 const ImgSaltoAngel1 = () => {
   return (

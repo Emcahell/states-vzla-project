@@ -1,4 +1,4 @@
-import image from "/src/assets/images/los-roques-1.jpg"
+import image from "/src/assets/images/los-roques-1.jpg";
 
 const ImgRoques1 = () => {
   return (

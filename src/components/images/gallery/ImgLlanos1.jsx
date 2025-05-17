@@ -1,4 +1,4 @@
-import image from "/src/assets/images/llanos-1.jpg"
+import image from "/src/assets/images/llanos-1.jpg";
 
 const ImgLlanos1 = () => {
   return (

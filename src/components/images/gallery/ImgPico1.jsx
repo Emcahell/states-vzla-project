@@ -1,4 +1,4 @@
-import image from "/src/assets/images/pico-bolivar-1.jpg"
+import image from "/src/assets/images/pico-bolivar-1.jpg";
 
 const ImgPico1 = () => {
   return (

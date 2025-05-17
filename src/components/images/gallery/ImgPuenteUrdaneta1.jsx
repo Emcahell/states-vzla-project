@@ -1,4 +1,4 @@
-import image from "/src/assets/images/puente-rafael-urdaneta-1.jpg"
+import image from "/src/assets/images/puente-rafael-urdaneta-1.jpg";
 
 const ImgPuenteUrdaneta1 = () => {
   return (
