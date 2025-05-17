@@ -1,4 +1,4 @@
-import image from "/src/assets/images/monte-roraima-1.jpg";
+import image from "/src/assets/images/roraima-1.jpeg";
 
 const ImgRoraima1 = () => {
   return (
