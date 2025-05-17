@@ -21,7 +21,7 @@ const IconFilter = ({setSortOption}) => {
   }, []);
 
   return (
-<div className="absolute top-0 right-0 flex items-center p-3 rounded-tr-lg rounded-br-lg cursor-pointer bg-wine-light" ref={menuRef}>
+<div className="absolute top-0 right-0 flex items-center p-3 rounded-tr-lg rounded-br-lg cursor-pointer bg-wine-light z-20" ref={menuRef}>
     <button onClick={() => setOpen(!open)}>
       <svg
       xmlns="http://www.w3.org/2000/svg"

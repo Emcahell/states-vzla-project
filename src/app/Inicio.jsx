@@ -29,7 +29,7 @@ const Inicio = () => {
         </div>
         <div className="w-11/12 -mt-34 mb-20 text-white-smoke">
           <p className="mb-4 font-bold text-lg tracking-wide">Organización territorial</p>
-          <p className="tracking-wide mb-1">Venezuela está dividida en 23 estados, un Distrito Capital y las Dependencias Federales (Más de 311 islas, islotes y cayos), además de una zona en reclamación (Guayana Esequiba).</p>
+          <p className="tracking-wide mb-2">Venezuela está dividida en 23 estados, un Distrito Capital y las Dependencias Federales (Más de 311 islas, islotes y cayos), además de una zona en reclamación (Guayana Esequiba).</p>
           <p className="tracking-wide text-sm"> Para saber más sobre los estados de Venezuela, echale un ojo a la sección "Buscar", que está en el icono de la lupa, donde además de poder verlos, también podrás guardar a tus favoritos.</p>
         </div>
         <div className="flex flex-col items-center gap-2 sm:gap-4 w-[70%] h-full mb-20">
