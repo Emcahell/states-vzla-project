@@ -14,7 +14,7 @@ const CardState = ({ onViewMore, ...data }) => {
         <SwitchBookmark estadoData={data} />
       </div>
       <div className="mb-4">
-        <h1 className="text-xl tracking-wide font-bold text-wine capitalize mb-2">{estado}</h1>
+        <h2 className="text-xl tracking-wide font-bold text-wine capitalize mb-2">{estado}</h2>
           <div className="flex flex-col text-base text-[#523e43]">
             <span className="tracking-wide mb-1"><b>Capital:</b> {capital}</span>
             <span className="tracking-wide mb-1"><b>Extención:</b> {extension} km²</span>
