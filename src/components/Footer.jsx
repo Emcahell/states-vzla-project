@@ -13,16 +13,16 @@ const Footer = () => {
           <a className="m-1 p-2 rounded-full bg-wine-light hover:bg-wine" href="https://github.com/emcahell">
             <Icongh />
           </a>
-          <a className="m-1 p-2 rounded-full bg-wine-light hover:bg-wine" href="https://x.com/kromwellykz">
+          <a className="m-1 p-2 rounded-full bg-wine-light hover:bg-wine" href="https://www.linkedin.com/in/emmanuel-castro-b577aa34a?utm_source=share&utm_campsing=share_via&utm_content=profile&utm_medium=web">
             <IconX />
           </a>
-          <a className="m-1 p-2 rounded-full bg-wine-light hover:bg-wine" href="https://instagram.com/kromwellykz">
+          <a className="m-1 p-2 rounded-full bg-wine-light hover:bg-wine" href="https://instagram.com/emcahell">
             <Iconig />
           </a>
         </div>
       </section>
       <section className="text-white-smoke mt-4 text-xs">
-        <p>© 2025 Emcahell - Estados vzla</p>
+        <p>2025 | Estados Vzla</p>
       </section>
 
     </footer>

@@ -27,14 +27,14 @@ const Inicio = () => {
         <div className="relative flex justify-center w-full">
           <Mapa />
         </div>
-        <div className="w-11/12 -mt-34 mb-20 text-white-smoke">
-          <p className="mb-4 font-bold text-lg tracking-wide">Organización territorial</p>
-          <p className="tracking-wide mb-2">Venezuela está dividida en 23 estados, un Distrito Capital y las Dependencias Federales (Más de 311 islas, islotes y cayos), además de una zona en reclamación (Guayana Esequiba).</p>
-          <p className="tracking-wide text-sm"> Para saber más sobre los estados de Venezuela, echale un ojo a la sección "Buscar", que está en el icono de la lupa, donde además de poder verlos, también podrás guardar a tus favoritos.</p>
+        <div className="w-11/12 -mt-34 mb-20 text-white-smoke text-lg">
+          <p className="tracking-wide my-2">
+          🔍 Dirígete al icono de la lupa para ver todos los estados o buscar uno en específico.
+          </p>
         </div>
         <div className="flex flex-col items-center gap-2 sm:gap-4 w-[70%] h-full mb-20">
-          <div className="w-full mb-10 text-center">
-            <span className="w-full text-xl sm:text-3xl tracking-wide text-white-smoke font-family-cathedral">Lugares Emblemáticos</span>
+          <div className="w-full mb-6 text-center">
+            <span className="w-full text-xl sm:text-3xl tracking-wide text-white-smoke font-family-cathedral"></span>
           </div>
           <div className="flex gap-2 sm:gap-4 w-full">
             <CardImgPlace className="w-[40%]">
