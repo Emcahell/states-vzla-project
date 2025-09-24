@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://estados-vzla.vercel.app/sitemap.xml
